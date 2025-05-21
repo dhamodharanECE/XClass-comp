@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.card{
+  border: 8px solid rgb(21, 156, 109);
+  width: 450px;
+  height: 300px;
+  border-radius: 8px;
+  outline: 3px solid goldenrod;
+} 
