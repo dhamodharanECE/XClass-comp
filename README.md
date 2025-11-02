@@ -25,7 +25,17 @@ This app allows users to increase, decrease, and reset the counter value with sm
 
 ## 📸 Preview
 
-(Add a screenshot of your Counter App here)
+1. Main Page:
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8c198046-c34b-4c94-8151-944c8feb1cdf" />
+
+2. Increment Page:
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a3d5aa53-608e-4c14-bae0-e4cbbb39a9d1" />
+
+3. Decrement Page:
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7ab4e1f3-5fe3-4b33-9091-3498f7a49bb4" />
 
 ---
 
