@@ -64,5 +64,6 @@ Designing a simple, responsive UI
 
 👨‍💻 Author
 Dhamodharan S
-Full Stack Web Developer | Passionate about building interactive web applications
+Full Stack Web Developer | Passionate about building interactive web applications.
+
 📧 Email: dhamodharans206@gmail.com
