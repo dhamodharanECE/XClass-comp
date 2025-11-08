@@ -58,7 +58,6 @@ run
 ```
 npm start
 ```
-
 Open index.html in your browser.
 
 Use the Increase, Decrease, or Reset buttons to control the counter.
@@ -76,6 +75,7 @@ Designing a simple, responsive UI
 # 👨‍💻 Author
 
 Dhamodharan S
+
 Full Stack Web Developer | Passionate about building interactive web applications.
 
 📧 Email: 
@@ -84,4 +84,5 @@ dhamodharans206@gmail.com
 ```
 # Deployment Link:
 ```
+https://x-class-comp-two-phi.vercel.app/
 ```
